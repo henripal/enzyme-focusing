@@ -25,33 +25,30 @@ trajectories, then are fixed for all videos, except the 20X video. (to do:
 store the parameters!)
 
 The *blue* curves are the hexokinase trajectories, the *red* curves are the
-aldolase trajectories.
+aldolase trajectories. Unit for axes are in pixels.
 
 ### Glucose 1 video results
-
 ![](../img/gl_1.png)
-
 ### Glucose 2 video results
-
 ![](../img/gl_2.png)
-
 ### Glucose 3 video results
-
 ![](../img/gl_3.png)
-
 ### Glucose 4 video results
-
 ![](../img/gl_4.png)
-
 ### Glucose 5 video results
-
 ![](../img/gl_5.png)
-
 ### Control results
-
 The same procedure applied to the control videos yield either one or zero
 hexokinase trajectories, with no overlapping or nearby aldolase trajectories,
 ending the procedure.
 
 For example here are the results for the l-glucose videos:
 ![](../img/lglu_001.png)
+
+## To do
+
+- Discuss the removal of drift (still works but problem with some fixed
+  enzymes)
+- Make the graphs publcation ready (larger font, labels, etc)
+- Write down the statistical test to show that the correlation between
+  trajectories is significant
