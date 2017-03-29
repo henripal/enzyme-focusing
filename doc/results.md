@@ -23,4 +23,4 @@ The steps are shown in [this notebook](../rev_notebooks/particle_expl.ipynb).
 The parameters of the above are manually tuned to produce meanigful looking
 trajectories, then are fixed for all videos, except the 20X video.
 
-[]!(../img/gl_1.png)
+![](../img/gl_1.png)
