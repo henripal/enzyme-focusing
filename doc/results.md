@@ -55,4 +55,3 @@ ending the procedure.
 
 For example here are the results for the l-glucose videos:
 ![](../img/lglu_001.png)
-![](../img/lgl.png)
