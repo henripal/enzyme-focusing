@@ -1,0 +1,26 @@
+Channel,Substrate,Experiment,NFI,Smoothed NFI,Lower Bound,Higher Bound
+center,amppcp,ctrl,88.9,88.7,87.4,90.0
+left,amppcp,ctrl,50.3,49.8,46.6,53.3
+right,amppcp,ctrl,45.3,45.7,44.6,46.7
+center,amppcp,substrate,90.3,90.4,87.9,92.6
+left,amppcp,substrate,50.9,50.3,46.9,53.6
+right,amppcp,substrate,43.3,43.2,41.3,44.8
+center,dg,ctrl,100.0,100.0,97.1,103.1
+left,dg,ctrl,43.2,43.0,39.7,46.6
+right,dg,ctrl,41.4,41.4,38.2,44.7
+center,dg,substrate,119.1,118.7,115.0,122.4
+left,dg,substrate,34.0,34.4,32.6,36.4
+right,dg,substrate,31.4,30.9,28.5,33.7
+center,lg,ctrl,87.1,86.5,83.5,89.7
+left,lg,ctrl,58.5,58.1,53.8,62.4
+right,lg,ctrl,38.9,38.9,37.2,40.7
+center,lg,substrate,80.7,80.3,76.7,84.0
+left,lg,substrate,60.5,59.8,55.6,64.0
+right,lg,substrate,43.4,43.2,41.2,45.3
+center,mannose,ctrl,84.7,84.4,81.7,87.1
+left,mannose,ctrl,59.5,59.2,55.9,62.1
+right,mannose,ctrl,40.3,40.3,37.9,42.8
+center,mannose,substrate,103.9,104.1,100.6,107.4
+left,mannose,substrate,41.3,41.4,38.9,44.0
+right,mannose,substrate,39.3,39.6,36.9,42.2
+,,,,,,
