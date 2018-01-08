@@ -14,6 +14,8 @@ The figures from the paper can be generated using the `plot.py` script.
 
 All data analysis starts with raw data from Penn State stored in `/data`.
 
+Note: this repository does not include the image stack data, only the numerical data. Please contact the authors for stack data.
+
 Each notebook in `/notebooks` and `/rev_notebooks` corresponds to a figure;
 each notebook processes the data, runs statistical analysis, and saves the
 figure in `/img`. No extra steps beyond running the notebook are necessary.
